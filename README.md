@@ -27,12 +27,12 @@ This code is written by Visual Studio 2022 (Preview). Hopefully this code will c
  Array name is "array".
  It is not necessary to declare array name by "array".
  An array is a collection of elements of the same type placed in contiguous memory locations that can be individually referenced by using an index to a unique identifier.
- It will display "Enter size of array : ".
 
  Line 7 :
  "cout" is an object of class ostream.
  It is defined in iostream header file.
  It is used to display the output to the standard output device.
+ It will display "Enter size of array : ".
 
  Line 8 :
  "cin" is an object of class istream.
